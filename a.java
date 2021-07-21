@@ -1,3 +1,5 @@
 public class Exec{
-	System.out.println("asdffsad");
+	public static void main(String[] args){
+		System.out.println("asdffsad");
+	}
 }
